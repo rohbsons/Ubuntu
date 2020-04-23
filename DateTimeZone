@@ -1,0 +1,5 @@
+#Ubuntu 18.04
+
+timedatectl set-timezone America/Sao_Paulo
+
+timedatectl
